@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 596b3c818454559439def94d90d878be, type: 3}
+  m_Name: DefaultBehaviours
+  m_EditorClassIdentifier: 
+  defaultRigged: {fileID: 11500000, guid: 070bcd503675d784a96714fe4a828116, type: 3}
+  defaultWheeledVehicle: {fileID: 11500000, guid: 16399812777ed4d48beda28b2509eb63,
+    type: 3}
+  defaultPropellorVehicle: {fileID: 11500000, guid: e6ece7e595dc53d4497b59abf9ccbf86,
+    type: 3}
+  defaultFlyingAnimal: {fileID: 11500000, guid: ff91cee89362cf94cb6a88a41ef54bf3,
+    type: 3}
+  defaultSwimmingAnimal: {fileID: 11500000, guid: 6015225da77fb74419d09601710d49b8,
+    type: 3}

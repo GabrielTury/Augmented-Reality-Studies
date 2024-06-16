@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e2fa3afdb345b34f85b11801300e340, type: 3}
+  m_Name: TransformSettings
+  m_EditorClassIdentifier: 
+  animateModel: 1
+  placeOnGround: 1
+  clickInPlacementLocation: 0
+  continueUntilCancelled: 0
+  loadingImageActive: 1
+  followCam: 0
+  loadingMessage: 1
+  placeOnGrid: 1
+  serializeAsset: 0
+  addCollider: 1
+  addRigidbody: 1
+  showGridHandles: 0
+  repositioning: 0
+  customParentTransformEnabled: 0
+  customPositionFieldEnabled: 0
+  customRotationFieldEnabled: 0
+  customScaleMultiplierEnabled: 0
+  defaultRiggedBehaviourEnabled: 1
+  defaultVehicleBehaviourEnabled: 1
+  defaultFlyingVehicleBehaviourEnabled: 1
+  defaultFlyingAnimalBehaviourEnabled: 1
+  defaultShaderBehaviourEnabled: 0
+  defaultStaticBehaviourEnabled: 0
+  defaultSwimmingAnimalBehaviourEnabled: 0
+  objectPosition: {x: 0, y: 0, z: 0}
+  objectRotation: {x: 0, y: 0, z: 0}
+  objectScaleMultiplier: 1
+  defaultRiggedScript: {fileID: 11500000, guid: 070bcd503675d784a96714fe4a828116, type: 3}
+  defaultVehicleScript: {fileID: 11500000, guid: 16399812777ed4d48beda28b2509eb63, type: 3}
+  defaultFlyingVehicleScript: {fileID: 11500000, guid: e6ece7e595dc53d4497b59abf9ccbf86, type: 3}
+  defaultFlyingAnimalScript: {fileID: 11500000, guid: ff91cee89362cf94cb6a88a41ef54bf3, type: 3}
+  defaultStaticScript: {fileID: 0}
+  defaultShaderScript: {fileID: 0}
+  defaultSwimmingAnimalScript: {fileID: 0}
+  dragPosition: {x: 0, y: 0, z: 0}
+  gridOrigin: {x: 0, y: 0, z: 0}
+  gridCellCount: 0
+  gridCellWidth: 1
+  gridAreaEnabled: 0
+  gridAreaOrigin: {x: 0, y: 0, z: 0}
+  gridAreaSize: {x: 0, y: 0}
+  gridAreaForward: {x: 0, y: 0, z: 0}
+  gridAreaRight: {x: 0, y: 0, z: 0}
+  gridAreaObjectsDistance: {x: 0, y: 0, z: 0}
+  gridAreaObjectsPerRow: 0
+  gridAreaFitMode: 0
+  gridAreaClipMode: 0
+  gridAreaCanGrow: 0
+  gridAreaShowPositions: 0
+  gridAreaRandomOffset: 0
+  gridAreaIgnoreCollision: 0
